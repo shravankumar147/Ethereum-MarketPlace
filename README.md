@@ -32,16 +32,16 @@ npm run build
 ```
 
 #### Welcome Page: 
-![welcome](/web3.0/client/images/Welcome.jpg)
+![alt](/web3.0/client/images/Welcome.JPG)
 
 #### Making a real-time transaction: 
-![transaction](/web3.0/client/images/Transaction.jpg)
+![alt](/web3.0/client/images/Transaction.JPG)
 
 #### Lookin at Latest Transactions
-![latest_transactions](/web3.0/client/images/Transactions.jpg)
+![latest_transactions](/web3.0/client/images/Transactions.JPG)
 
 #### Other Services
-![services](/web3.0/client/images/Services.jpg)
+![services](/web3.0/client/images/Services.JPG)
 
 
 
